@@ -2,7 +2,7 @@
 
 Egresado de Ingeniería de Telecomunicaciones. Me interesa el lado defensivo de la seguridad — detección, análisis de amenazas, entender cómo funciona lo que intenta entrar.
 
-La mayoría de lo que subo acá son proyectos que construí para aprender haciendo: infraestructura real, datos reales, problemas reales que tuve que resolver en el camino.
+La mayoría de lo que subo acá son proyectos que construí para aprender haciendo (hands-on-lab): infraestructura real, datos reales, problemas reales que tuve que resolver en el camino.
 
 ---
 
