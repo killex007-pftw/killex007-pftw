@@ -29,5 +29,5 @@ Otros:    Docker · MITRE ATT&CK · AbuseIPDB · GreyNoise
 
 ---
 
-Escribo sobre lo que voy haciendo en [Medium](https://medium.com/@killex007).  
+Escribo sobre lo que voy haciendo en [Medium]([https://medium.com/@killex007](https://medium.com/@kilmbust)).  
 Lima, Perú.
